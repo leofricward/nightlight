@@ -1,2 +1,0 @@
-# nightlight
-Created with CodeSandbox
